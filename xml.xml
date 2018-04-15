@@ -1,0 +1,31 @@
+<ROOT>
+<Customers>
+<Customer CustomerID="C001" CustomerName="Arshad Ali">
+<Orders>
+<Order OrderID="10248" OrderDate="2012-07-04T00:00:00">
+<OrderDetail ProductID="10" Quantity="5" />
+<OrderDetail ProductID="11" Quantity="12" />
+<OrderDetail ProductID="42" Quantity="10" />
+</Order>
+</Orders>
+<Address> Address line 1, 2, 3</Address>
+</Customer>
+<Customer CustomerID="C002" CustomerName="Paul Henriot">
+<Orders>
+<Order OrderID="10245" OrderDate="2011-07-04T00:00:00">
+<OrderDetail ProductID="11" Quantity="12" />
+<OrderDetail ProductID="42" Quantity="10" />
+</Order>
+</Orders>
+<Address> Address line 5, 6, 7</Address>
+</Customer>
+<Customer CustomerID="C003" CustomerName="Carlos Gonzlez">
+<Orders>
+<Order OrderID="10283" OrderDate="2012-08-16T00:00:00">
+<OrderDetail ProductID="72" Quantity="3" />
+</Order>
+</Orders>
+<Address> Address line 1, 4, 5</Address>
+</Customer>
+</Customers>
+</ROOT>
